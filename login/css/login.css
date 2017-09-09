@@ -1,0 +1,81 @@
+.col-lg-7 {
+	background-color: #1586ea;
+	color: white;
+}
+.logo {
+	width: 25%;
+	height: 100%;
+	margin: 20px;
+	margin-top: 30px;
+}
+.text{
+	margin: 10px;
+}
+.paragraph {
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+ul {
+	list-style: none;
+	list-style-position: horizontal;
+
+}
+li {
+	display: inline;
+	margin-left: 7%;
+}
+.col-lg-5 {
+	color: white;
+}
+.log {
+	margin: 20%;
+}
+.button1 {
+	width:40%;
+	align-items: center;
+	height: 15%;
+	background-color: white;
+	color: black;
+}
+.marg {
+	margin-left: 7%;
+	margin-bottom: 50%;
+}
+.btn:focus {
+	background-color: #1586ea !important;
+	border-radius: 0px !important;
+	color: white !important;
+}
+.button{
+	width: 100%;
+	height: 100%;
+	background-color: #1586ea;
+	border-radius: 19px !important;
+}
+.forgot a{
+	text-decoration: none;
+	color: black;
+}
+.forgot a:hover {
+	text-decoration: none;
+}
+footer {
+	margin-top: 100px;
+}
+.footer2 {
+	color: grey;
+}
+.footer2 a{
+	text-decoration: none;
+	color: #1586ea;
+}
+@media only screen and (max-width: 750px) {
+
+li {
+	margin-left: 3%;
+}
+}
